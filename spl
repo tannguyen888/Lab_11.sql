@@ -1,0 +1,2 @@
+SELECT min(due_date) As earliest_due_date
+FROM assignments;
